@@ -21,7 +21,7 @@ Server Installation:
 
 UI installation:
 
-1. Go insto UI folder
+1. Go inside UI folder
 2. Run `npm install` in order to install the following npm package dependencies.
 3. Start UI by running `npm run dev` in the command line.
 
