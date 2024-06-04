@@ -2,7 +2,7 @@
 
 ## Description 
   
-This is Crawer server web Application for client details. Using this user can parse URl to and store data in database. Through UI users can view, add, edit, search and delete client details.
+This is Crawer server web Application for client details. Using this user can parse URL to and store data in database. Through UI users can view, add, edit, search and delete client details.
 
 
 ## Table of Contents
