@@ -36,3 +36,16 @@ Create `clientDetails` table with following fields:
 ## Methodology
 
 The application utilizes components for UI. UI components are present in `UI/src/components` folder.
+
+1. View Client Details Page:
+   ![image](https://github.com/Shilpa1100/CrawlerApp/assets/171326323/f0ffa0c8-680c-4637-b809-fe4bf778c14b)
+
+2. Add Client Details Page:
+   ![image](https://github.com/Shilpa1100/CrawlerApp/assets/171326323/39def838-a6f3-4687-83e1-01936b1f15a2)
+   
+3. Update Client Details Page:
+   ![image](https://github.com/Shilpa1100/CrawlerApp/assets/171326323/6775cb73-c13b-4eec-856d-5e14306d6399)
+
+4. Search Client Details By id:
+   ![image](https://github.com/Shilpa1100/CrawlerApp/assets/171326323/02099af9-9290-469d-8d9e-cba174c22b39)
+
